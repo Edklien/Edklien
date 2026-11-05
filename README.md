@@ -4,17 +4,16 @@ Registered Civil Engineer and Safety Officer (SO2) with a BS in Civil Engineerin
 
 ## Projects
 
-- **[Project 1]** — Thesis study on "Improving Application Efficiency and Performance of Glow-in-the-Dark Strontium Aluminate-Infused Epoxy Paint for Road Marking Applications at Central Luzon State University."
-- **[Project 2]** — Complete drawing plans and specifications for three proposed residential buildings, including a four-bedroom bungalow, a two-storey residential building, and a two-storey apartment.
+- Thesis study on "Improving Application Efficiency and Performance of Glow-in-the-Dark Strontium Aluminate-Infused Epoxy Paint for Road Marking Applications at Central Luzon State University."
+- Complete drawing plans and specifications for three proposed residential buildings, including a four-bedroom bungalow, a two-storey residential building, and a two-storey apartment.
 
 ## Background
 
-BS Civil Engineering, Central Luzon State University (January 2026).
-Passed the Civil Engineering Licensure Examination (September 2026 CELE).
-Trained as Safety Officer 2 (November 2024), and had a training in Loss Control Management (LCM) with HIRAC (May 2025).
+- BS Civil Engineering, Central Luzon State University (January 2026).
+- Passed the Civil Engineering Licensure Examination (September 2026 CELE).
+- Trained as Safety Officer 2 (November 2024), and had a training in Loss Control Management (LCM) with HIRAC (May 2025).
 
-
-**Tools:** AutoCAD · Excel · SketchUp · Microsoft Project · Obsidian
+**Technical Proficiencies:** AutoCAD · Excel · SketchUp · Obsidian
 
 ## Elsewhere
 
