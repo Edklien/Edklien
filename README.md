@@ -10,7 +10,7 @@ Registered Civil Engineer and Safety Officer (SO2) with a BS in Civil Engineerin
 ## Background
 
 - BS Civil Engineering, Central Luzon State University (January 2026).
-- Passed the Civil Engineering Licensure Examination (September 2026 CELE).
+- Passed the Civil Engineering Licensure Examination (September 2026).
 - Trained as Safety Officer 2 (November 2024), and had a training in Loss Control Management (LCM) with HIRAC (May 2025).
 
 **Technical Proficiencies:** AutoCAD · Excel · SketchUp · Obsidian
